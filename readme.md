@@ -14,7 +14,7 @@ dynamatic> set-src example1/example1.c
 dynamatic> compile
 ```
 
-The output will be available in the example1/out/ folder.
+The output will be available in the `example1/out/` folder.
 
 ## Example 1
 
